@@ -1,7 +1,8 @@
 repo_name: ivosh/sudoku-game-service
 report_id: 593015ee6d947cd9b6865fd2770d3823
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T11:03:12+00:00'
+timestamp: '2024-01-04T14:52:39+00:00'
 requested_by: ivosh
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ivosh/sudoku-game-service
   detection_source: Repo Metadata
